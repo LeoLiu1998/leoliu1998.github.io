@@ -12,4 +12,4 @@ His interest lies in foundamental problems in Natural Language Processing and Ma
 ## **Selected Course**
 * <a href="https://courses.cs.washington.edu/courses/cse546/18au/" target="_blank">CSE 546 Graduate Machine Learning (18au)</a>
 * <a href="https://courses.cs.washington.edu/courses/cse517/18sp/" target="_blank">CSE 517 Graduate Natural Language Processing (18sp)</a>
-* <a href="https://sites.math.washington.edu/~burke/crs/407/" target="_blank">MATH 407 Linear Optimization</a>
+* <a href="https://sites.math.washington.edu/~burke/crs/407/" target="_blank">MATH 407 Linear Optimization(18au) </a>
