@@ -6,7 +6,7 @@ layout: home
 ---
 Zeyu Liu (Leo) is a sophomore undergraduate in <a href="http://www.cs.washington.edu/" target="_blank">Paul G. Allen School of Computer Science and Engineering</a>at the <a href="http://www.washington.edu/" target="_blank">University of Washington</a>. He majors in Computer Science and Mathematics. He is working with <a href="https://www.cs.cmu.edu/~dcard/" target="_blank">Dallas Card</a> on document processing under the supervision of <a href="http://homes.cs.washington.edu/~nasmith/" target="_blank">Prof. Noah A. Smith.</a>
 
-His interest lies in foundamental problems in Natural Language Processing and Machine Learning. He wishes to an elegant mathematical structures to model language.
+His interest lies in foundamental problems in Natural Language Processing and Machine Learning. He wishes to find elegant mathematical structures to model language.
 
 
 
