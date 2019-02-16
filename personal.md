@@ -11,4 +11,4 @@ It was during my summer school at <a href="https://www.berkeley.edu/" target="_b
 
 # Misc
 I love Chinese Calligraphy, escpecially running hand!\\
-I love traveling, playing games with my friends, but those are rare occasions. :(
+I love traveling and playing games with my friends, but those are rare occasions. :(
